@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>R Wiz.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>rrrArmorAMULETofWERDNA</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>AMULET of WERDNA</Source>
+      <Dest>ワードナの魔除け</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrChestB02Boss</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrChestB01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrChestB01Boss</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrChestB02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDoorNormal</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>扉</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorMurphysGhost</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>MURPHY&apos;S GHOST</Source>
+      <Dest>マーフィーズゴースト</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorFighter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>FIGHTER</Source>
+      <Dest>ファイター</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvMageFire</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>MAGE</Source>
+      <Dest>メイジ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvMageFrost</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>MAGE</Source>
+      <Dest>メイジ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvMageShock</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>MAGE</Source>
+      <Dest>メイジ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorPriest</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>PRIEST</Source>
+      <Dest>プリースト</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvAssassin</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NINJA</Source>
+      <Dest>ニンジャ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorWERDNA</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>WERDNA</Source>
+      <Dest>ワードナ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorVampireLord</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>VAMPIRE LORD</Source>
+      <Dest>ヴァンパイアロード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvVampire01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>VAMPIRE</Source>
+      <Dest>ヴァンパイア</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvVampire02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>VAMPIRE</Source>
+      <Dest>ヴァンパイア</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvVampire03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>VAMPIRE</Source>
+      <Dest>ヴァンパイア</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrActorLvVampire04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>VAMPIRE</Source>
+      <Dest>ヴァンパイア</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB0102</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>KEY of SILVER</Source>
+      <Dest>銀の鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB0201</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>STATUE of BEAR</Source>
+      <Dest>クマの置物</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB0202</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>STATUE of FLOG</Source>
+      <Dest>カエルの置物</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB0203</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>KEY of GOLD</Source>
+      <Dest>金の鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB0401</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>BLUE RIBBON</Source>
+      <Dest>ブルーリボン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB0402</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>KEY</Source>
+      <Dest>鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB1001</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>KEY of WERDNA</Source>
+      <Dest>ワードナの鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrKeyB0101</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>KEY of BRONZE</Source>
+      <Dest>銅の鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB07Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B7</Source>
+      <Dest>ウィズダンジョンB7</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB02Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B2</Source>
+      <Dest>ウィズダンジョンB2</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB08</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B8</Source>
+      <Dest>ウィズダンジョンB8</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB03</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B3</Source>
+      <Dest>ウィズダンジョンB3</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB09Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B9</Source>
+      <Dest>ウィズダンジョンB9</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB04Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B4</Source>
+      <Dest>ウィズダンジョンB4</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB10</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B10</Source>
+      <Dest>ウィズダンジョンB10</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB05</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B5</Source>
+      <Dest>ウィズダンジョンB5</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB07</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B7</Source>
+      <Dest>ウィズダンジョンB7</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B2</Source>
+      <Dest>ウィズダンジョンB2</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB06Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B6</Source>
+      <Dest>ウィズダンジョンB6</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB01Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B1</Source>
+      <Dest>ウィズダンジョンB1</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB09</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B9</Source>
+      <Dest>ウィズダンジョンB9</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB04</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B4</Source>
+      <Dest>ウィズダンジョンB4</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB08Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B8</Source>
+      <Dest>ウィズダンジョンB8</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB03Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B3</Source>
+      <Dest>ウィズダンジョンB3</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWiz05Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B5</Source>
+      <Dest>ウィズダンジョンB5</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB06</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B6</Source>
+      <Dest>ウィズダンジョンB6</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B1</Source>
+      <Dest>ウィズダンジョンB1</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrCellRWizB10Dark</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Wiz Dungeon B10</Source>
+      <Dest>ウィズダンジョンB10</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Skyrim</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMapMarkerRWiz</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wiz Dungeon</Source>
+      <Dest>ウィズダンジョン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB01E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B1</Source>
+      <Dest>エレベータールームB1</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB02E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B2</Source>
+      <Dest>エレベータールームB2</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB03E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B3</Source>
+      <Dest>エレベータールームB3</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB04E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B4</Source>
+      <Dest>エレベータールームB4</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB05E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B5</Source>
+      <Dest>エレベータールームB5</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB07E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B7</Source>
+      <Dest>エレベータールームB7</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB06E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B6</Source>
+      <Dest>エレベータールームB6</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB08E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B8</Source>
+      <Dest>エレベータールームB8</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMsgTitleB09E</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Elevator Room B9</Source>
+      <Dest>エレベータールームB9</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0103</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>THERE IS A GEM ENCRUSTED STATUE OF A HOODED MAN HERE.
+A GOLDEN LIGHT EMANATES FROM THE HOOD.
+IN FRONT OF THE STATUE IS AN ALTAR, IN WHICH PUNGENT INCENSE IS BURNING.</Source>
+      <Dest>フードを被った人間型の大きな彫像が見える。
+フードの穴の中からはキン色の光が漏れていて、彫像にはさまざまなかたちの宝石が散りばめられている。
+彫像の前には祭壇があり、新しい香が焚かれている。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0104</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>IN THIS ROOM IS A STATUE OF A MONSTER WITH THE BODY OF A CHICKEN AND THE HEAD OF A CAT.
+THE STATUE IS MADE OF BRONZE, AND LIES ON AN ONYX PEDESTAL.
+THERE ARE UNUSUAL RUNES ON A PLAQUE THEREON.</Source>
+      <Dest>部屋の中には、頭がネコで、からだがニワトリの異様なけだものの彫像がある。
+彫像はブロンズで、台座はオニキスでできている。飾り台の上には不自然な傷痕がある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0105</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>IN THIS ROOM IS A SILVER STATUE OF A BOAR. WITH HORNS AND LONG FANGS.
+ON THE WALL BY THE STATUE IS A MESSAGE (PARTIALLY OBSCURED) THAT APPEARS TO HAVE BEEN LEFT BY PASSING ELVES.
+IT IS HARDLY LEGIBLE, BUT SOME COMMENTS WARNING ABOUT GHOSTS AND DEMONS CAN STILL BE MADE OUT.</Source>
+      <Dest>部屋の中には、ツノと長いキバをもつオス豚のギンの像がある。
+彫像の横の壁には、通りすがりのエルフが、書き残していったらしい、消えかけたイタズラ書きがある。
+ほとんど読めないが、どうやら死霊や悪魔がいるとの警告らしい。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0201</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>AS YOU ENTER THIS ROOM, A SILVERY FOG ENVELOPS YOU.
+TERRIBLE DEMONS FORM ALL AROUND YOU. 
+IN TERROR, YOU FLEE FROM THE ROOM!</Source>
+      <Dest>冒険者たちがこの部屋に入るなり、天井からギン色の霧が降りてきた。
+突然、恐ろしい悪魔の姿が、彼らの周囲に現れ始めた。
+冒険者たちの全員が恐怖に震えて部屋を飛び出していった。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0202</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>YOU SEE A STATUE OF A BEAR ON A PEDESTAL.
+ON THE WALL IS A SIGN READING &quot;I&apos;VE GOT A MILLION OF&apos;EM&quot;.</Source>
+      <Dest>小さな台座の上にクマの彫像がある。
+その後ろの看板には、“オレは何百万も奴らをヤったぞ”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0203</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>AS YOU ENTER THIS ROOM, A BRONZE, SMOKE FILLS IT.
+YOU FEEL COMPELLED TO LEAVE IMMEDIATELY!</Source>
+      <Dest>入るなり部屋がブロンズ色の煙で満たされた。
+突然、冒険者たちは今入ってきた方角へ、出て行きたい衝動にかられた。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0204</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>ON A SILVERY DISK STANDS A STATUE OF A FROG WEARING A RED AND BLUE CAPE.
+THE STATUE ANIMATES AND SHAKES ITS LEGS WHILE IT YELLS &quot;YEAH.. YEAH..&quot;</Source>
+      <Dest>小さいギン色にかがやく円盤には、赤と青のケープを羽織ったカエルの彫像が載っている。
+その彫像は金属製だというのに、不思議にも生命を吹き込まれ、前足を左右に振り、“いぇぃ！！！・・・”と甲高い声を発しながら踊っている。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0205</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>NOBODY IN THE PARTY CAN BREAK THE DOOR DOWN.</Source>
+      <Dest>冒険者たちの誰もがそのトビラをこじ開けることはできなかった！</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0206</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>NOBODY IN THE PARTY CAN BREAK THE DOOR DOWN.</Source>
+      <Dest>冒険者たちの誰もがそのトビラをこじ開けることはできなかった！</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0207</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>IN THIS ROOM IS A STATUE OF A MONSTER WITH THE BODY OF A CHICKEN AND THE HEAD OF A CAT.
+THE STATUE IS MADE OF BRONZE, AND LIES ON AN ONYX PEDESTAL.
+THERE ARE UNUSUAL RUNES ON A PLAQUE THEREON.</Source>
+      <Dest>部屋の中には、頭がネコで、からだがニワトリの異様なけだものの彫像がある。
+彫像はブロンズで、台座はオニキスでできている。飾り台の上には不自然な傷痕がある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0208</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A PLACARD NEAR THE GROUND READ: &quot;A DUNGEON&apos;S DARK...&quot;</Source>
+      <Dest>地面の近くの立て看板には、“地下迷宮のくらやみは…”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0209</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A PLACARD NEAR THE GROUND READ: &quot;WHEN IT&apos;S NOT LIT...&quot;</Source>
+      <Dest>地面の近くの立て看板には、“明かりがないときには…”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0210</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A PLACARD NEAR THE GROUND READ: &quot;WATCH OUT. OR YOU&apos;LL..&quot;</Source>
+      <Dest>地面の近くの立て看板には、“気をつけよ。さもなくば…”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0301</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>THE FLOOR HAS A MOSAIC READING: &quot;TURN AROUND.&quot;</Source>
+      <Dest>床のモザイク模様の文字は、“回れ右！”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0302</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>THE FLOOR HAS A MOSAIC READING: &quot;TURN LEFT.&quot;</Source>
+      <Dest>床のモザイク模様の文字は、“左に曲がれ”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0303</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>THE FLOOR HAS A MOSAIC READING: &quot;TURN RIGHT.&quot;</Source>
+      <Dest>床のモザイク模様の文字は、“右に曲がれ”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0401</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A LARGE SLIDING WALL WITH THE IMAGE OF A BEAR UPON IT BLOCKS YOUR PATH AND FORCES YOU OUT OF THE ROOM.</Source>
+      <Dest>クマの印のある巨大な移動する壁が冒険者たちの行く手を塞いだ。
+その壁は冒険者たちに迫り、むりやり部屋の外に追い出すのであった。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0402</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A SIGN ON THE DOOR READS:
+*** TESTING GROUNDS CONTROL CENTER ***
+AUTHORIZED PERSONNEL ONLY! 
+*** DO NOT ENTER ***</Source>
+      <Dest>トビラの看板いわく、
+*** 迷宮コントロールセンター ***
+この領域は進入禁止である。
+*** 入るべからず ***</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0403</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>SUDDENLY, A LOUD ALARM BELL CAN BE HEARD. 
+THEN THE BELLS STOP, AND ARE REPLACED BY THE SOUNDS OF GURDIAN MONSTERS!</Source>
+      <Dest>突然、大音響の進入警報が聞こえてくる。警報が鳴り止むと同時に突然の静寂が訪れた。
+続いて警備の魔物のガチャガチャやってくる音がする。
+冒険者たちは“面倒なことになった”と思い始めた。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0404</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A SIGN ON THE DOOR READS: &quot;TREASURE REPOSITORY.&quot;</Source>
+      <Dest>トビラの看板には、
+“宝物の貯蔵庫”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0405</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A SIGN ON THE DOOR READ: &quot;MONSTER ALLOCATION CENTER.&quot;</Source>
+      <Dest>トビラの看板には、
+*** モンスター配備センター ***</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0406_1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>IN THIS ROOM, THERE IS A LARGE DESK.
+ON IT ARE THE REMAINS OF CRYSTAL BALLS AND OTHER MAGICAL ARTIGACTS ALL NOW BROKEN.
+AS YOU ENTERD THE ROOM, A PANEL ON THE DOOR SLAMMED SHUT.</Source>
+      <Dest>冒険者たちはこの10四方の部屋の中に、広い半円形の机があることに気付いた。
+その上には、占い用の水晶球や、消臭の魔除けなどといった、支配と知識の工芸品の残骸が散らばっている。
+不幸にも、それらのものはもはや直すことができない状態である。
+冒険者たちが部屋に入ると共に、左の壁にある滑り扉がバタンと閉まった。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0407_1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>AS THE PARTY ENETRS THE ROOM, THE DOOR SLAMS SHUT, GLOWS ORANGE AND VANISHES!
+A DOOR APPEARS TO THE RIGHT, A VOICE, COMING FROM THE CEILING ADDRESSES YOU:
+&quot;CONGRATULATIONS, BRAVE ADVENTURERS!
+TODAY YOU HAVE PROVED YOURSELF TO ME AND ARE NOW READY TO START YOU QUEST!
+YEARS AGO, MY AMULET WAS STOLEN BY THE EVIL WIZARD WERDNA.</Source>
+      <Dest>冒険者たちが部屋に入ると、トビラはバタンと閉まり、明るくダイダイ色に輝いて、消え去った。
+右にトビラが現れた。どこからともなく声が聞こえてきた。
+“おめでとう、わが忠実で有能なるしもべたちよ。
+今こそ諸君はわが望みを成就し、かつ、自らが真にこれからの冒険において、力となることを証明したのである。
+数年前、邪悪な魔術士ワードナによって、宝物庫よりある魔除けが盗まれたのである。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0408</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A SIGN OF THE DOOR READS:
+PRIVATE EXPRESS SERVICE ELEVATOR!
+AUTHORIZED USERS ONLY!</Source>
+      <Dest>トビラの看板には、
+*** プライベート・エレベーター ***
+許可者以外使用禁止！</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0409</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>YOU ALL FALL ASLEEP! LATER, EVERYONE WAKES UP, FEELING SICK AND WEAK.
+YOU ARE BACK OUTSIDE THE DOOR YOU TRIED TO ENTER.</Source>
+      <Dest>冒険者たち全員が気を失った！　しばらくして、全員が目を覚ました。
+脱力感を感じつつ、みんなは先ほど入ろうとした部屋の外にいることに気付いた。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0406_2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>THEN IT GLOWED A PALE BLUE. NO ONE CAN PRY IT OPEN.
+NEXT, THE DOOR ON THE OTHER SIDE OF THE ROOM STARTS TO GLOW BRIGHT ORANGE, INVITING THE PARTY TO USE IT.</Source>
+      <Dest>そしてそれはその直後に青白く光った。だれもそのトビラをこじ開けることはできなかった。
+そして、部屋の反対側にあるトビラが、冒険者たちを誘うかのように明るくダイダイ色に光った。
+冒険者たちが振り向くと、今、入ってきたトビラが消えていることに気付いた。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0407_2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>WERDNA HIDES INT THE MAZE SOMEWHERE BELLOW US.
+FIND HIM SLAY HIM AND RETURN TO ME THE AMULET!
+TO AID YOU IN YOUR QUEST, I WILL GIVE YOU A BLUE RIBBON,
+WHICH MAY BE USED TO ENTER THE ELEVATOR ON THIS FLOOR.
+GO NOW -- AND MAY THE GODS GUIDE YOU!&quot;</Source>
+      <Dest>ワードナは、今諸君らが立っている真下の地下迷宮にいる。
+この魔除けこそ、今われわれが欲している力を持っているのだ。
+諸君らの任務は、この魔除けを探し出し、邪悪な魔術士から無事取り戻すことである。
+今日の諸君らの成果を評して、ブルーリボンを授けよう。
+これはこの階にあるエレベータの利用許可証である。
+これなしでは冒険者たちはワードナの居所に行くことができない。
+さあ、行け。そしてくれぐれも急いで任務をつとめ上げよ！”</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0901</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A CHUTE!</Source>
+      <Dest>シュート！</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB1001</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>INSCREIBED ON AN ORNATE, GOLD PLAQUE IS A MESSAGE.
+THE SCRIPT IS ORNATE, AND BLINKS IN VARIOUS COLOR:
+&quot;YOU ARE TRESPASSING ON THE DOMAIN OF **WERDNA**.
+ THERE IS NO POSSIBILITY THAT YOU CAN GET PAST MY GUARDIANS!
+ SO SURE AM I OF MY DEFENSES THAT I GIVE YOU THIS CLUE:&quot;
+&quot;CONTRA-DEXTRA AVENUE&quot;
+PS - TREBOR SUX!</Source>
+      <Dest>金の飾り額に記されていたのは、伝言であった。
+その言葉は彫りこまれており、さまざまな色に点滅していた。
+“わかっておろうが、お前らは主なる魔術士ワードナの領地を侵しておる。
+　お前らがオレの守りを破ることはできなかろう。
+　ましてや、オレと戦って、勝とうなどとは夢にも思わんことだ！
+　そこで、あわれなお前らにこんな手がかりを教えて進ぜよう。
+　コントラ-デクストラ-アベニュー”
+PS - トレボー サックス</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB1002</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>ONE GROUP OF GURDIANS HAVE BEEN DEFEATED, BUT THERE ARE MANY MORE.
+TURN BACK WHILE YOU CAN, FOOLS!</Source>
+      <Dest>守衛の一団は退治したであろうが、まだまだおるぞ！
+引き返せ、できるうちに、死ぬ運命にあるものたちよ！</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB1003</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A DESCREET SIGN ON THE WALL READS:
+LAIR OF THE EVIL WIZARD WERADNA! OFFICE
+HOURS 9AM TO 3PM BY APPOINTMENT ONLY
+THE WIZARD IS *IN*!</Source>
+      <Dest>壁の標識には、“邪悪な魔術士ワードナの事務所”
+営業時間はAM9時からPM3時
+今、ワードナは　*在室中*</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0101</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A LARGE SIGN ON THE WALL READS:
+** AREA OUT OF BOUNDS! **</Source>
+      <Dest>壁に貼ってある大きな看板が次のように告げている。
+*** 回廊の終端を超えようとしています 引き返しなさい！ ***</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrMsgB0102</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&quot;MAPIRO MAHAMA DIROMAT!!&quot;
+A STRANGE GLOW SEEMS TO EMANATE FROM THIS ROOM.
+IN THE CENTER, A SMALLISH MAN IN A LONG ROBE TURNS TOWARDS THE PARTY AND SHOUTS &quot;BEGONE, STRANGERS!&quot; HE SLOWLY WAVES HIS HANDS, AND CHANTS.
+&quot;MAPIRO MAHAMA DIROMAT!!&quot;</Source>
+      <Dest>この部屋からは、何か妖しげな明かりが発せられている。
+中央で長い法衣を着た小柄な男が冒険者たちをふりかえり叫んだ。
+“異邦人たちよ、去りたまえ！”彼は手を振りはじめ、そして、念じた。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
